@@ -1,0 +1,10 @@
+[user]
+	name = diegomestre2
+	email = diegogomest@gmail.com
+[include]
+	path = $HOME/.gitconfig.local
+[dotfiles]
+	managed = true
+	lastupdate = 201910230600
+[credential]
+	helper = osxkeychain
