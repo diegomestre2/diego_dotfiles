@@ -4,8 +4,6 @@
 
 ![screenshot 1][scrn1]
 
-![screenshot 2][scrn2]
-
 [scrn1]: /img/screenshot1.png
 
 ## Installation
