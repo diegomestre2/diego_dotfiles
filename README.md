@@ -43,8 +43,6 @@ For both Linux and macOS:
 better git difs (you'll need to run `dot_update` to apply it);
 - [`fzf`](https://github.com/junegunn/fzf):
 fuzzy finder, used in `,t` on vim, for example;
-- [`kubectx`](https://github.com/ahmetb/kubectx) for better kubernetes context
-  and namespace switch;
 
 ### macOS defaults
 
