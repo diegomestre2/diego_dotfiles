@@ -1,4 +1,4 @@
-# diego' dotfiles
+# diego's dotfiles
 
 > Config files for ZSH, Java, Ruby, Go, Editors, Terminals and more.
 
@@ -29,7 +29,7 @@ $ make
 $ zsh # or just close and open your terminal again.
 ```
 
-> All changed files will be backed up with a `.backup` suffix.
+> All changed files will be backed up with a `.local` suffix.
 
 ### Recommended Software
 
